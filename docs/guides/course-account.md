@@ -40,9 +40,7 @@ The steps in this section only need to be done once.
 `cscs-key` is the CSCS command-line tool for signing and managing your SSH keys.
 Follow the [installation instructions][ref-ssh-cli] to install it on your machine.
 
-!!! note "Prefer not to install anything?"
-    You can manage and sign your key entirely in the browser with the [web dashboard][ref-ssh-key-management] at [user-account.cscs.ch](https://user-account.cscs.ch).
-    If you go this route, sign your key there instead of running `cscs-key sign` below.
+If you prefer not to install anything, you can sign and manage your key in the browser with the [web dashboard][ref-ssh-key-management] at [user-account.cscs.ch](https://user-account.cscs.ch), instead of running `cscs-key sign` below.
 
 ### Generate an SSH key
 
